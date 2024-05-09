@@ -5,3 +5,4 @@ binary*.go
 /debug.go
 build
 .build
+/-trimpath
